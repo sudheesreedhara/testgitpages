@@ -51,6 +51,7 @@ Apigee Edge API Proxy created in earlier lab exercise. If not, jump back to "API
 ![image alt text](./media/image_8.png)
 
 * Change the Policy XML configuration to below code & update the rate to 12pm.
+
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SpikeArrest async="false" continueOnError="false" enabled="true" name="Spike-Arrest-1">
