@@ -24,17 +24,19 @@ Apigee Edge API Proxy created in earlier lab exercise. If not, jump back to "API
 
 * Select **Develop → API Proxies** in the side navigation menu.
 
+
 ![image alt text](./media/image_2.jpg)
+
 
 * Click on **{your_initials}**_employee_proxy that you have created in earlier lab exercise.
 
-
 ![image alt text](./media/image_3.png)
-
 
 * Click on **Develop** tab to access API Proxy development dashboard.
 
-![image alt text](./media/image_4.png)
+![image alt text](./media/image_4.png) 
+
+Test
 
 ![image alt text](./media/image_5.png)
 
