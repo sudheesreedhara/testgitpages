@@ -9,7 +9,7 @@ All of the material here is released under the [MIT license](./LICENSE.md)
 
 ### [Core Labs](./Labs/Core) 
 0. Sign-up with Apigee
-1. API Design - Create a Reverse Proxy with OpenAPI specification
+1. [API Design - Create a Reverse Proxy with OpenAPI specification](./Labs/Core/Lab1) 
 2. Traffic Management - Throttle APIs
 3. API Diagnostics - Trace tool
 4. API Security - Securing APIs with API Keys
